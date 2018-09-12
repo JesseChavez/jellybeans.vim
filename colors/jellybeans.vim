@@ -620,7 +620,7 @@ hi! link htmlTagName htmlTag
 
 " XML
 
-hi! link xmlTag Statement
+hi! link xmlTag Identifier
 hi! link xmlEndTag xmlTag
 hi! link xmlTagName xmlTag
 hi! link xmlEqual xmlTag
