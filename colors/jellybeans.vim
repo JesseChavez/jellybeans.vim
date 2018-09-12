@@ -582,6 +582,16 @@ hi! link javaScriptTemplateVar StringDelim
 hi! link javaScriptTemplateDelim Identifier
 hi! link javaScriptTemplateString String
 
+hi! link jsFuncArgs Special
+hi! link jsSuper Keyword
+hi! link jsThis Constant
+hi! link jsObjectKey Keyword
+" hi! link jsFunction Include
+" hi! link jsImport rubyClass
+" hi! link jsExport rubyClass
+" hi! link jsFrom rubyClass
+" hi! link jsModuleAs rubyClass
+
 " CoffeeScript
 
 hi! link coffeeRegExp javaScriptRegexpString
